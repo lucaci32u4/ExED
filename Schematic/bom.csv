@@ -12,7 +12,7 @@ Id,Designator,Package,Quantity,Designation,Supplier and ref,
 11,"J7,J8",PinHeader_1x03_P2.54mm_Vertical,2,Clocks,,
 12,"R12,R32,R49,R31,R65,R16,R53,R18,R17,R42,R43,R52,R47,R68,R13,R41,R48,R66,R45,R14,R20,R15,R67,R50,R70,R44,R19,R69",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,28,100,9233253,
 13,J3,PinHeader_1x03_P2.54mm_Vertical,1,ShiftInput,,
-14,"C13,C6,C1,C9,C11,C5,C16,C18,C2",CP_Radial_D4.0mm_P2.00mm,9,1u,9452524,
+14,"C13,C6,C1,C9,C11,C5,C16,C18,C2",CP_Radial_D4.0mm_P2.00mm,9,1u,9452524,changed to 0603 code 1658868
 15,U7,DIP-16_W7.62mm,1,4046,3123331,
 16,"U5,U2",DIP-8_W7.62mm,2,NE555P,3006909,
 17,J12,PinHeader_1x10_P2.54mm_Vertical,1,CounterOutput,,
@@ -24,7 +24,7 @@ Id,Designator,Package,Quantity,Designation,Supplier and ref,
 23,J6,PinHeader_1x08_P2.54mm_Vertical,1,ShiftOutput,,
 24,"R51,R11,R6,R4,R7,R34,R40,R35,R39,R5,R10",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,11,10k,2008360,
 25,"J10,J9",PinHeader_1x02_P2.54mm_Vertical,2,PLLDivider,,
-26,"C7,C3,C10",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,3,10n,491202,Sau 722236 pt 0603 la farnell
+26,"C7,C3,C10",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,3,10n,491202,changed to 0603 code 722236
 27,J5,PinHeader_1x03_P2.54mm_Vertical,1,LogicHigh,,
 28,SW1,SW_PUSH_6mm,1,Manual,,
 29,U3,DIP-14_W7.62mm,1,74LS00,3120419,
